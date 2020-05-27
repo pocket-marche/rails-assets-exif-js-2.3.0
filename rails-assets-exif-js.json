@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-exif-js",
+  "downloads": null,
+  "version": "2.3.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "JavaScript library for reading EXIF image metadata",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/exif-js/exif-js",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/exif-js/exif-js",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/exif-js/exif-js",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
